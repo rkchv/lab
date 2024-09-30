@@ -5,6 +5,11 @@ import (
 	"time"
 )
 
+/*
+unbuffered channel provides a guarantee that
+send side waiting for rec'd side
+*/
+
 func main() {
 	ch := make(chan string)
 
