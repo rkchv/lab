@@ -8,6 +8,8 @@ import (
 /*
 unbuffered channel provides a guarantee that
 send side waiting for rec'd side
+
+recieve happens before the send
 */
 
 func main() {
