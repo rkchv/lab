@@ -6,8 +6,6 @@ import (
 	"sync"
 )
 
-// looks like
-
 func main() {
 	work := []string{"one", "L", "super", "hophey", "john", "celtic", "block"}
 	wg := sync.WaitGroup{}
