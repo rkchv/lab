@@ -1,6 +1,6 @@
 ## Demo Data
 
-You can download the demo data using the following link:
+Download DB below and put to ./sql
 
 [Download demo data](https://edu.postgrespro.ru/demo-big.zip)
 
